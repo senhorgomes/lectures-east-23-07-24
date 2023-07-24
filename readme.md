@@ -1,4 +1,4 @@
-SQL intro
+# SQL intro
 
 ### Data persistancy
 When you reset your app and you lose all your data? That ends this week. You'll also be learning how to become a full stack developer. 
@@ -320,3 +320,5 @@ WHERE rating > (SELECT AVG(rating) FROM songs WHERE album_id = albums.id);
 - [Another Ranking of DBMSs](https://db-engines.com/en/ranking)
 - [SELECT Queries Order of Execution](https://sqlbolt.com/lesson/select_queries_order_of_execution)
 - [SQL Joins Visualizer](https://sql-joins.leopard.in.ua/)
+- [Datatypes](https://www.postgresql.org/docs/current/datatype.html)
+- [Common psql commands](https://www.geeksforgeeks.org/postgresql-psql-commands/)
